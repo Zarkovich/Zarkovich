@@ -1,6 +1,6 @@
 ## 👋 Olá!!! eu sou a Gustavo Vieira, estudante de programação e tecnologia!
 
-Acesse meu ![Portfólio](https://gustavovieiradev.netlify.app/)
+Acesse meu <a href="https://gustavovieiradev.netlify.app/" target="_blank">Portfólio</a>
 
 ### Linguagens Atuais:
 
