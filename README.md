@@ -1,5 +1,7 @@
 ## 👋 Olá!!! eu sou a Gustavo Vieira, estudante de programação e tecnologia!
 
+Acesse meu ![Portfólio](https://gustavovieiradev.netlify.app/)
+
 ### Linguagens Atuais:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zarkovich&theme=dark)](https://github.com/zarkovich/github-readme-stats)
