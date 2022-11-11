@@ -15,6 +15,7 @@ Acesse meu <a href="https://gustavovieiradev.netlify.app/" target="_blank">Portf
   <img align="center" alt="Zark-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Zark-DotNet" height="30" width="40" src="https://devicons.railway.app/i/dot-net.svg">
   <img align="center" alt="Zark-Postgresql" height="30" width="40" src="https://devicons.railway.app/i/postgresql.svg">
+  <img align="center" alt="Zark-Docker" height="30" width="40" src="https://devicons.railway.app/i/docker.svg">
   
 ---
 
