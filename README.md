@@ -4,6 +4,7 @@ Acesse meu <a href="https://gustavovieiradev.netlify.app/" target="_blank">Portf
 
 ### Linguagens Atuais:
 
+---
 <div style="display: inline_block"><br>
   <img align="center" alt="Zark-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zark-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
