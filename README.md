@@ -6,6 +6,7 @@ Acesse meu <a href="https://gustavovieiradev.netlify.app/" target="_blank">Portf
 
 ---
 <div style="display: inline_block"><br>
+  <img align="center" alt="Zark-Linux" height="30" width="40" src="https://devicons.railway.app/i/tux.svg">
   <img align="center" alt="Zark-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Zark-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Zark-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
